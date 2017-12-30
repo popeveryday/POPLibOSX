@@ -1,0 +1,6 @@
+framework module POPLibOSX {
+  umbrella header "POPLibOSX-umbrella.h"
+
+  export *
+  module * { export * }
+}
