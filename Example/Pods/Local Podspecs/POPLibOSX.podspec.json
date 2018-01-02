@@ -1,6 +1,6 @@
 {
   "name": "POPLibOSX",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "POPLib is list of common functions for Object-c project.",
   "homepage": "https://github.com/popeveryday/POPLibOSX",
   "license": "MIT",
@@ -9,13 +9,14 @@
   },
   "source": {
     "git": "https://github.com/popeveryday/POPLibOSX.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "8.0",
+    "osx": "10.8"
   },
+  "source_files": "POPLibOSX/Classes/**/*",
   "requires_arc": true,
-  "source_files": "POPLib/Classes/**/*.{h,m,c}",
   "dependencies": {
     "PureLayout": [
 

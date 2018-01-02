@@ -1,6 +1,6 @@
 PODS:
   - MBProgressHUD (1.1.0)
-  - POPLibOSX (0.1.0):
+  - POPLibOSX (0.1.1):
     - MBProgressHUD (~> 1.0)
     - PureLayout
   - PureLayout (3.0.2)
@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
-  POPLibOSX: de354d9d4d617b5b0c252b579d7837fc0bc64d44
+  POPLibOSX: cdc54b7b333de890c395164c1ad03b98c040581d
   PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
 
 PODFILE CHECKSUM: 1d251d6df660b0ef8d7bd0d587a9a426bf863c5f
